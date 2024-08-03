@@ -1,1 +1,1 @@
-# themeSwitcher
+# theme switcher
